@@ -49,4 +49,6 @@ To access the VPN server and establish a secure connection, you will need to dow
 2. Click the appropriate option to end the VPN connection.
 3. Once disconnected, your device will resume using the regular internet connection.
 
+![Screenshot](.github/assets/Screenshot%202023-06-23%20at%206.56.43%20AM.png)
+
 By following these steps, you can download the VPN client software, configure it with the necessary settings, and establish a secure connection to the VPN server using the IP address `13.53.187.157:943`. Use the provided credentials (`username: MYM-temp` and `password: MYM-Temp`) to log in to the User Portal and access the VPN client download. Enjoy a private and encrypted network connection, ensuring the security of your data while accessing the internet.
