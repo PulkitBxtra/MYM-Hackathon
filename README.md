@@ -4,7 +4,7 @@ To access the VPN server and establish a secure connection, you will need to dow
 
 ## Step 1: Accessing the User Portal
 
-1. Open a web browser and enter the following URL: `http://13.53.187.157:943`.
+1. Open a web browser and enter the following URL: `https://13.53.187.157:943`.
 2. You will be directed to the login page of the User Portal.
 
 ## Step 2: Logging In
