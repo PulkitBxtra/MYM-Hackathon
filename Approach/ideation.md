@@ -1,4 +1,4 @@
-# Detailed Technical Approach to Setting Up a VPN Server in AWS Cloud
+# My Detailed Approach to Setting Up a VPN Server in AWS Cloud
 
 In the hackathon, I took on the challenge of setting up a VPN server in the AWS Cloud. To accomplish this, I followed a detailed technical approach that involved leveraging various AWS services, implementing specific configurations, and ensuring secure network communication. Here's a step-by-step breakdown of how I achieved the task:
 
