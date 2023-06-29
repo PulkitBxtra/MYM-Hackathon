@@ -9,8 +9,8 @@ To access the VPN server and establish a secure connection, you will need to dow
 
 ## Step 2: Logging In
 
-1. Enter the provided username: `MYM-Temp`.
-2. Enter the provided password: `MYM-Temp`.
+1. Enter the provided username.
+2. Enter the provided password.
 3. Click the "Login" button to proceed.
 
 ## Step 3: Downloading the VPN Client
@@ -51,4 +51,4 @@ To access the VPN server and establish a secure connection, you will need to dow
 
 ![Screenshot](.github/assets/Screenshot%202023-06-23%20at%206.56.43%20AM.png)
 
-By following these steps, you can download the VPN client software, configure it with the necessary settings, and establish a secure connection to the VPN server using the IP address `13.53.187.157:943`. Use the provided credentials (`username: MYM-temp` and `password: MYM-Temp`) to log in to the User Portal and access the VPN client download. Enjoy a private and encrypted network connection, ensuring the security of your data while accessing the internet.
+By following these steps, you can download the VPN client software, configure it with the necessary settings, and establish a secure connection to the VPN server using the IP address `https://44.211.206.251:943`. Use the provided credentials to log in to the User Portal and access the VPN client download. Enjoy a private and encrypted network connection, ensuring the security of your data while accessing the internet.
